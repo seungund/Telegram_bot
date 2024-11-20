@@ -14,8 +14,6 @@
 * **비용 N빵 기능**
 * **간단한 도박 게임**
 
----
-
 ## Contributor
 
 [seungund (Lee Seungun)
